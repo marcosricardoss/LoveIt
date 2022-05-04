@@ -493,19 +493,34 @@ bilibili:
   Icon:
     Simpleicons: bilibili
 
-# 063: Email
+# 063: CodersRank
+codersrank:
+  Weight: 63  
+  Title: CodersRank
+  Icon:
+    Simpleicons: codersrank
+
+# 064: HackerRank
+hackerrank:
+  Weight: 64  
+  Title: HackerRank
+  Icon:
+    Class: fab fa-hackerrank
+
+# 065: Email
 email:
-  Weight: 63
+  Weight: 65
   Template: mailto:%v
   Title: Email
   Icon:
     Class: far fa-envelope fa-fw
 
-# 064: RSS
+# 066: RSS
 rss:
-  Weight: 64
+  Weight: 66
   Url: /index.xml
   Title: RSS
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
